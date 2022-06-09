@@ -45,7 +45,7 @@ body{
 .dmode{
     --primary: black;
     --secondary: #fff;
-    --bg: url("img/lbg.jpg");
+    --bg: url("bg/bluebg.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;
